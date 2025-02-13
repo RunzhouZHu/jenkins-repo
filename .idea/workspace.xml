@@ -4,80 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1fa12f0-ac7a-4103-a7ed-12751b1defb6" name="Changes" comment="123" />
+    <list default="true" id="e30d527b-5c32-4a64-93f6-a6be60f9dec1" name="Changes" comment="123123">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2szCEhXLFqsmm8jTzmGwrWtxK8h" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RunzhouZHu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RunzhouZHu/jenkins-repo.git&quot;,
+    &quot;accountId&quot;: &quot;4675fd8c-c029-4ac1-9eab-3f96e5ce3ee7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2szE7U5GjFGo1aaRi1O85iQaASZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.TemperatureConverterTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Runzhou__Zhu__week5__inclass__assignment",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
+    "last_opened_file_path": "D:/wenjian/123/2nd_2/jenkins-repo",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/wenjian/123/2nd_2/Software-Engineering-Project-1/Assignments/week5-inclass-assignment/src/main/java/runzhou/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="runzhou" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="TemperatureConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week5-inclass-assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="runzhou.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="runzhou" />
-      <option name="MAIN_CLASS_NAME" value="runzhou.TemperatureConverterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.TemperatureConverterTest" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,20 +65,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1fa12f0-ac7a-4103-a7ed-12751b1defb6" name="Changes" comment="" />
-      <created>1739448907902</created>
+      <changelist id="e30d527b-5c32-4a64-93f6-a6be60f9dec1" name="Changes" comment="" />
+      <created>1739449835679</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739448907902</updated>
-      <workItem from="1739448909087" duration="883000" />
+      <updated>1739449835679</updated>
+      <workItem from="1739449836729" duration="299000" />
+      <workItem from="1739450200380" duration="13000" />
     </task>
-    <task id="LOCAL-00001" summary="123">
+    <task id="LOCAL-00001" summary="123123">
       <option name="closed" value="true" />
-      <created>1739449496250</created>
+      <created>1739449887039</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1739449496250</updated>
+      <updated>1739449887039</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -110,8 +87,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="123123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123123" />
   </component>
 </project>
