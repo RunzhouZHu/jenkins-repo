@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6c1b83c-5600-4271-bd39-dacdd107e3e8" name="Changes" comment="123">
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week4-home-assignment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week4-home-assignment/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/src/laskin/Laskin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/test/laskin/AbstractParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/test/laskin/ExtraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/test/laskin/LaskinTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4-home-assignment/test/laskin/NelioTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RunzhouZHu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RunzhouZHu/Software-Engineering-Project-1.git&quot;,
+    &quot;accountId&quot;: &quot;4675fd8c-c029-4ac1-9eab-3f96e5ce3ee7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sfJjZB3JhcuL1lP3TrhgSKN1WS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.LibraryTest.executor": "Run",
+    "JUnit.TemperatureConverterTest (1).executor": "Run",
+    "JUnit.TemperatureConverterTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/wenjian/123/2nd_2/Software-Engineering-Project-1/Assignments/week4-home-assignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/wenjian/123/2nd_2/Software-Engineering-Project-1/Assignments/week3-inclass-assignment/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wenjian\123\2nd_2\Software-Engineering-Project-1\Assignments\week3-inclass-assignment\src\test\java\org\example" />
+      <recent name="D:\wenjian\123\2nd_2\Software-Engineering-Project-1\Assignments\week3-inclass-assignment\src\main\java\org\example" />
+      <recent name="D:\wenjian\123\2nd_2\Software-Engineering-Project-1\Assignments\week3-inclass-assignment\src\test\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week4-inclass-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.LibraryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LibraryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6c1b83c-5600-4271-bd39-dacdd107e3e8" name="Changes" comment="" />
+      <created>1738840834192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738840834192</updated>
+      <workItem from="1738840835624" duration="851000" />
+      <workItem from="1738841713219" duration="5000" />
+      <workItem from="1738842938982" duration="500000" />
+      <workItem from="1738843465239" duration="1987000" />
+      <workItem from="1738845479079" duration="8000" />
+      <workItem from="1739261504605" duration="66000" />
+      <workItem from="1739261650468" duration="137000" />
+      <workItem from="1739261896462" duration="532000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <option name="closed" value="true" />
+      <created>1738844919336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738844919336</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123">
+      <option name="closed" value="true" />
+      <created>1738844966969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738844966969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+</project>
