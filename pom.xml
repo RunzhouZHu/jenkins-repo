@@ -53,7 +53,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TimeCal</mainClass>
+                            <mainClass>runzhou.TimeCal</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
