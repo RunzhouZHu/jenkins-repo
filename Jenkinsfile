@@ -15,9 +15,18 @@ pipeline {
                 bat 'mvn clean install'
             }
         }
-        stage('Test') {
+        stage('Test & Coverage') {
             steps {
-                bat 'mvn test'
+                bat 'mvn test jacoco:report'
+            }
+            post {
+                always {
+                    junit 'target/surefire-reports/*.xml'
+                    jacoco execPattern: '**/target/jacoco.exec',
+                           classPattern: '**/target/classes',
+                           sourcePattern: '**/src/main/java',
+                           exclusionPattern: '**/test/**'
+                }
             }
         }
     }
