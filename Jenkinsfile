@@ -1,13 +1,17 @@
 pipeline {
     agent any
+     tools {
+        maven 'Maven3'
+        jdk 'java_Home'
+     }
      environment {
-            // Define Docker Hub credentials ID
-            DOCKERHUB_CREDENTIALS_ID = 'runzhouzhu'
-            // Define Docker Hub repository name
-            DOCKERHUB_REPO = 'runzhou/week7_inclass_test1'
-            // Define Docker image tag
-            DOCKER_IMAGE_TAG = 'latest_v1'
-        }
+        // Define Docker Hub credentials ID
+        DOCKERHUB_CREDENTIALS_ID = 'runzhouzhu'
+        // Define Docker Hub repository name
+        DOCKERHUB_REPO = 'runzhou/week7_inclass_test1'
+        // Define Docker image tag
+        DOCKER_IMAGE_TAG = 'latest_v1'
+     }
     stages {
         stage('Checkout') {
             steps {
