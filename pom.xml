@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>timecal</finalName>
+        <finalName>tripcalaculator</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
@@ -53,7 +53,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>runzhou.TimeCal</mainClass>
+                            <mainClass>TripCostCalculator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
